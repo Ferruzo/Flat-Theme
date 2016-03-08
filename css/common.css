@@ -129,3 +129,31 @@ form {
     color: #fff;
     padding: 4px;
 }
+
+#rights {
+    padding: 20px;
+    background-color: #2C3E50;
+}
+
+#rights p {
+    color: #97A1AA;
+}
+
+#rights ul a {
+    color: #97A1AA;
+    padding: 5px;
+    margin-top: 0;
+}
+
+#rights ul a:hover {
+    color: #fff;
+}
+
+#rights ul i {
+    color: #97A1AA;
+    font-size: 1.3rem;
+}
+
+#rights ul i:hover {
+    color: #fff;
+}

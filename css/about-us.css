@@ -23,3 +23,74 @@ a:hover {
 li {
     list-style-type: none;
 }
+
+
+/* About-Us*/
+
+body {
+    background-color: #F5F5F5;
+}
+
+#what-we-are {
+    padding: 4%;
+}
+
+.progress {
+    height: 30px;
+    background-color: #fff;
+}
+
+.progress-bar {
+    padding: 7px;
+}
+
+#team {
+    padding: 0 4% 4% 4%;
+}
+
+.team-row {
+    margin-top: 50px;
+}
+
+.picture {
+    background-color: #fff;
+    padding: 5px;
+}
+
+.p-name {
+    color: #34495E;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.p-charge {
+    color: #9C9C9C;
+    font-size: 1.3rem;
+    margin-top: 0;
+}
+
+.social {
+    border-radius: 100%;
+    width: 30px;
+    padding: 5px;
+    color: #fff;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.facebook {
+    background-color: #4F7DD4;
+    padding-left: 0;
+}
+
+.google-plus {
+    background-color: #DC422D;
+}
+
+.twitter {
+    background-color: #5BCEFF;
+}
+
+.linkedin {
+    background-color: #21A6D8;
+}

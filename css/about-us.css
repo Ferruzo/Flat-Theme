@@ -1,0 +1,25 @@
+/*utilities / Usa este código también */
+
+.text-white {
+    color: #fff;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}

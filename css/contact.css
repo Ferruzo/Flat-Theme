@@ -1,0 +1,15 @@
+h3{
+	color:grey;
+}
+.btn{
+	background-color:#0489B1;
+	color:white;
+	padding:10px;
+	font-size:1.5em;
+}
+textarea{
+	margin-top:50px;
+}
+iframe{
+	width:100% !important;
+}

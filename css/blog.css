@@ -1,0 +1,66 @@
+.white{
+	border-radius:5px;
+	background-color:white;
+	margin-bottom:30px;
+	width:100%;
+}
+.white img{
+    border-radius: 5px 5px 0 0;
+    width:100%;
+}
+.text{
+	padding:20px;
+}
+.white span{
+	color:grey;
+	margin-right:10px;
+}
+.text p{
+	margin-top:20px;
+}
+.pagination a{
+	color:#272544;
+	font-size:20px;
+}
+.pagination a:hover{
+	background-color:#272544 !important;
+	color:white;
+}
+/*COL-4*/
+.isearch{
+	width:70%;
+	margin:0;
+}
+.red{
+	background-color:#B51414 !important;
+	color:white !important;
+	font-size:15px;
+}
+
+.col-lg-6 img{
+	border-radius:5px;
+	margin-top:10px;
+	margin-right:20px;
+	margin-bottom:20px;
+	width:160px;
+}
+ul{
+	list-style:none;
+}
+ul span{
+	margin-right:10px;
+	font-size:10px;
+}
+h3{
+	margin-left:15px;
+}
+.boton{
+	padding:10px 0px 0 20px;
+}
+.boton button{
+	margin-bottom:10px;
+	padding:5px;
+	font-size:10px;
+	background-color:#0489B1;
+	color:white;
+}

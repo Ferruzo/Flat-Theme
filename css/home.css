@@ -1,0 +1,45 @@
+.text {
+    padding-top: 70px;
+}
+
+.slide {
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    width: 100%;
+}
+
+.first-slide {
+    background-image: url("../images/slider/bg1.jpg");
+}
+
+.second-slide {
+    background-image: url("../images/slider/bg2.jpg");
+}
+
+.third-slide {
+    background-image: url("../images/slider/bg3.jpg");
+}
+
+#marketing {
+    background-color: #2ECC71;
+    padding: 30px;
+    padding-top: 40px;
+}
+
+.div-icon {
+    font-size: 4rem;
+    background-color: #1C7A44;
+    border-radius: 100%;
+    width: 80px;
+    padding: 10px;
+}
+
+.marketing-text {
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.marketing-text h3 {
+    margin-top: 0;
+}

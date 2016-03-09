@@ -24,6 +24,10 @@ li {
     list-style-type: none;
 }
 
+body {
+    background-color: #F5F5F5;
+}
+
 /*header*/
 
 header {
@@ -156,4 +160,25 @@ form {
 
 #rights ul i:hover {
     color: #fff;
+}
+
+/*green*/
+.green{
+	background-color:#01DF74;
+	padding-top:30px;
+	padding-bottom:30px;
+	color:white;
+}
+
+.left{
+	float:left;
+}
+.right{
+	float:right;
+	padding-top:60px;
+}
+.right a{
+	color:white;
+	padding: 10px;
+	text-decoration:none;
 }

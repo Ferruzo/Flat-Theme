@@ -96,13 +96,13 @@ h3 {
     margin-left: 90px;
 }
 
-#article form input {
+#article .form-comment input {
     border-radius: 3px;
     border: 1px solid #97A1AA;
     padding: 8px 10px;
 }
 
-#article form input:first-child {
+#article .form-comment .name-form {
     width: 50%;
     margin-right: 20px;
 }
@@ -125,8 +125,57 @@ textarea {
     font-size: 1.8rem;
 }
 
+/*COL-4*/
+.isearch{
+	width:77%;
+	margin:0;
+    border: 1px solid rgb(187, 187, 187);
+}
+.red{
+	background-color:#D9534E;
+	color:white !important;
+	font-size:15px;
+    position: absolute;
+    height: 34px;
+    width: 45px;
+    right: 20%;
+    top: -4%;
+}
+
+.red:hover {
+    background-color: #34495E;
+}
+
+.col-lg-6 img{
+	border-radius:5px;
+	margin-top:10px;
+	margin-right:20px;
+	margin-bottom:20px;
+	width:160px;
+}
+ul{
+	list-style:none;
+}
+ul span{
+	margin-right:10px;
+	font-size:10px;
+}
+h3{
+	margin-left:15px;
+}
+.boton{
+	padding:10px 0px 0 20px;
+}
+.boton button{
+	margin-bottom:10px;
+	padding:5px;
+	font-size:10px;
+	background-color:#428BCA;
+	color:white;
+}
+
 @media (max-width: 768px) {
-    #article form input:first-child {
+    #article .form-comment .name-form {
         width: 100%;
     }
 

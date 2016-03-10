@@ -4,7 +4,7 @@
 
 .slide {
     background-size: cover;
-    height: 500px;
+    height: 600px;
     background-position: center;
     width: 100%;
 }
@@ -55,7 +55,7 @@
   border: 1px solid rgba(111,107,107,0.26);
   color: #34495E;
   font-family: "Roboto";
-  
+
 }
 .thumbnail h5{
     overflow:hidden;
@@ -67,7 +67,7 @@
     padding-top: 50px;
     color: #ffffff;
     padding-bottom:50px;
-  
+
 }
 .what{
     text-align:center;

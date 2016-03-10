@@ -1,12 +1,16 @@
-h3{
+.grey{
 	color:grey;
 }
 .btn{
-	background-color:#0489B1;
 	color:white;
 	padding:10px;
 	font-size:1.5em;
 }
+
+.blue {
+    background-color:#0489B1;
+}
+
 textarea{
 	margin-top:50px;
 }
